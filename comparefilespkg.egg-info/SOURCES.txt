@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+compare_file_diff/__init__.py
+compare_file_diff/compare_files.py
+comparefilespkg.egg-info/PKG-INFO
+comparefilespkg.egg-info/SOURCES.txt
+comparefilespkg.egg-info/dependency_links.txt
+comparefilespkg.egg-info/top_level.txt
